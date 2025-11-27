@@ -1,7 +1,10 @@
 ## Dashboard Preview
-# Kaggle daatset link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data/
-# Context
-- With growing demands and cut-throat competitions in the market, a Superstore Giant is seeking your knowledge in understanding what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.
+<h4><a href="https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data/">Kaggle dataset link</a></h4>
+<h4>Context</h4>
+<p> 
+  With growing demands and cut-throat competitions in the market, a Superstore Giant is seeking your knowledge in understanding what works best for them. They would like to understand which products, regions, categories and customer segments they should target or avoid.
+  </p>
+
 ![Dashboard Preview](Dashboard.png)
 
 ---
