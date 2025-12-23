@@ -67,3 +67,7 @@ This analysis evaluates historical sales performance to identify growth drivers,
 - City-level revenue concentration
 - Sales and profit trends over time
 - Category and sub-category profitability comparison
+
+## Tools & Workflow
+- Excel / SQL: Data cleaning, aggregation, KPI creation
+- Power BI: Executive-level dashboards and storytelling
